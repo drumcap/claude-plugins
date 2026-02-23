@@ -1,0 +1,23 @@
+{
+  "name": "college-transfer-marketplace",
+  "owner": {
+    "name": "drumcap"
+  },
+  "metadata": {
+    "description": "미국 대학 편입 지원 준비를 위한 Claude Code 플러그인 모음"
+  },
+  "plugins": [
+    {
+      "name": "college-transfer",
+      "source": "./college-transfer",
+      "description": "미국 대학 편입 지원 준비 도구 - 에세이, 리서치, 마감일, 체크리스트",
+      "version": "1.0.0",
+      "author": {
+        "name": "drumcap"
+      },
+      "repository": "https://github.com/drumcap/claude-plugins",
+      "license": "MIT",
+      "keywords": ["college", "transfer", "essay", "admission"]
+    }
+  ]
+}

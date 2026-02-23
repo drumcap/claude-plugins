@@ -1,0 +1,11 @@
+{
+  "name": "college-transfer",
+  "description": "미국 대학 편입(Transfer) 지원 준비 도구 - 에세이 작성, CS 프로그램 리서치, 마감일 관리, 진행 현황 대시보드",
+  "version": "1.0.0",
+  "author": {
+    "name": "drumcap"
+  },
+  "repository": "https://github.com/drumcap/claude-plugins",
+  "license": "MIT",
+  "keywords": ["college", "transfer", "essay", "admission", "university", "CS", "computer-science"]
+}
